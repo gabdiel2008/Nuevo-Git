@@ -36,6 +36,10 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, excepturi quam aut aperiam architecto, nulla magnam suscipit consequuntur, dolores numquam et dolore possimus hic? Alias officiis consectetur quisquam unde iusto!</p>
         </div>
     </div>
+
+    <footer>
+        Copyright 2021. Derechos Reservados Eric
+    </footer>
 </body>
   
 </html>
