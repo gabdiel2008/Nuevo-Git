@@ -35,6 +35,13 @@
             <br>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, excepturi quam aut aperiam architecto, nulla magnam suscipit consequuntur, dolores numquam et dolore possimus hic? Alias officiis consectetur quisquam unde iusto!</p>
         </div>
+        <div class="body">
+            <form action="" method="post">
+                <input type="date" name="" id="">
+                <input type="text" name="" id="">
+                <input type="passwor" name="" id="">
+            </form>
+        </div>
     </div>
 
     <footer>
