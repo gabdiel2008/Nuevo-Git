@@ -1,7 +1,8 @@
 
 <html>
 <head>
- 
+<?php include_once('nav.php') ?>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
