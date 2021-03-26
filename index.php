@@ -29,6 +29,12 @@
         
     <div class="conteent">
         <h1>Mi primer pagina</h1>
+        <div class="col-md-12">
+            <table></table>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, illo doloribus dolores consectetur atque natus. Eveniet ducimus exercitationem, veritatis quasi, doloribus autem ut qui minima obcaecati, architecto incidunt soluta magni.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, excepturi quam aut aperiam architecto, nulla magnam suscipit consequuntur, dolores numquam et dolore possimus hic? Alias officiis consectetur quisquam unde iusto!</p>
+        </div>
     </div>
 </body>
   
